@@ -1,0 +1,97 @@
+h1 {
+    font-size: 56px;
+    text-align: center;
+    color: black;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    font-family: Sans-Serif;
+    font-weight: 100;
+}
+
+hr {
+    margin-top: 0px;
+    width: 100 rem;
+}
+
+
+
+/*----CLASS-----*/
+
+.intro {
+    margin-top: 90px;
+}
+
+.col {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.image-moving-van {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.van {
+    width: 60rem;
+  }
+
+.info-box {
+    padding: 50px;
+}
+
+.card {
+    width: 25rem;
+    padding: 0px;
+    margin: 0px;
+    text-align: left;
+    border-width: 0px;
+}
+
+.card-text {
+    font-family: Arial;
+    font-size: 16px;
+    text-align: left;
+}
+
+.icon {
+    width: 70px;
+    height: 70px;
+    margin-left: 12px;
+}
+
+.bg-primary {
+    padding: 20px;
+    border-radius: 25px;
+}
+
+.arrow {
+    margin-left: 5px;
+}
+
+
+.carousel {
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.spacing {
+    padding: 50px;
+}
+
+.links {
+    text-align: left;
+    margin-top: 0px;
+    padding: 50px;
+}
+
+.link {
+    text-align: left;
+    margin-bottom: 100px;
+}
+
+.grey {
+    color: grey;
+}
